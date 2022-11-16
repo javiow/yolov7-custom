@@ -1,4 +1,4 @@
-# yolov7-custom
+# yolov7-face-mask-detection
 
 # Reference
 https://www.kaggle.com/code/owaiskhan9654/training-yolov7-on-kaggle-on-custom-dataset?scriptVersionId=107704830&cellId=28  
